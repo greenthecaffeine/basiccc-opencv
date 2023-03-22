@@ -1,6 +1,7 @@
 # Ignore files larger than 5 megabytes
 *.megabytes max-size=5M
 
+*.m4v
 *.jpg
 *.mp4
 *.pdf
